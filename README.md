@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CarlosPujols
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- Location: Punta Cana, Dominican Republic
+- Front End Developer using HTML / CSS / JavaScript.
 
 <!---
 CarlosPujols/CarlosPujols is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
